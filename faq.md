@@ -59,3 +59,4 @@ You will receive the IBM Quantum Spring Challenge 2022 Achievement digital badge
 #### Still have more questions?
 
 Please let us know if you have any additional questions in the [#spring-challenge-2022](https://qiskit.slack.com/archives/C03BRNA9UQY) in the [Qiskit Slack](https://ibm.co/joinqiskitslack) workspace. 
+will  there be ranking problem ?
